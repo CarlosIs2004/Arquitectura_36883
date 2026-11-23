@@ -1,0 +1,6 @@
+[submodule "Parcial_2/TI.2.1.APIs_PUBLICOS_en_JAVA_y_MySQL_NRC36883"]
+	path = Parcial_2/TI.2.1.APIs_PUBLICOS_en_JAVA_y_MySQL_NRC36883
+	url = https://github.com/CarlosIs2004/TI.2.1.APIs_PUBLICOS_en_JAVA_y_MySQL_NRC36883.git
+[submodule "Parcial_2/TI.2.2.APIs_PUBLICOS_en_C_Sharp_y_SQL_NRC36883"]
+	path = Parcial_2/TI.2.2.APIs_PUBLICOS_en_C_Sharp_y_SQL_NRC36883
+	url = https://github.com/CarlosIs2004/TI.2.2.APIs_PUBLICOS_en_C_Sharp_y_SQL_NRC36883.git
